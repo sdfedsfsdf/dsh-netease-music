@@ -1,6 +1,6 @@
 {
   "name": "dsh-netease-music",
-  "version": "0.4.6",
+  "version": "0.4.7",
   "description": "DSH 插件：在 dsh 里看/控网易云正在播放的音乐，管歌单——带独立控制面板、实时进度条与歌词",
   "type": "module",
   "main": "index.js",
@@ -42,6 +42,14 @@
         "@deepseek-ai/dsh-client-ui-layout"
       ]
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdfedsfsdf/dsh-netease-music.git"
+  },
+  "homepage": "https://github.com/sdfedsfsdf/dsh-netease-music#readme",
+  "bugs": {
+    "url": "https://github.com/sdfedsfsdf/dsh-netease-music/issues"
   },
   "license": "MIT"
 }
